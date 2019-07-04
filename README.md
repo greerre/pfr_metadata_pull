@@ -12,4 +12,4 @@ This repo has three scipts with the following purposes:
 - pfr_meta_data_pull.py    // uses the box score links to pull metadata for each game
 - pfr_meta_data_format.py  // formats the metadata to make it 1) more structured and 2) joinable to nflscrapR
 
-This the hacky version, but the hope is to turn it into a package that can be update the dataset on an ongoing basis
+These scripts are pretty hacky, but the hope is to turn it into a package that can be update the dataset on an ongoing basis
